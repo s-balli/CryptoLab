@@ -14,7 +14,7 @@ Bu proje, Sifreleme-Bilimi-ve-Sifreleme-Teknikleri konusundaki teorik bilgileri 
 *   **Salt (Tuzlama) Simülasyonu:** Girilen parolanın 3 farklı güvenlik seviyesindeki (Zayıf, Güvenli, Çok Güvenli) hash halini karşılaştırmalı olarak gösterir ve neden tuzlanarak saklanması gerektiğini anlatır.
 
 ### 3. RSA Laboratuvarı (Asimetrik)
-*   Dökümanda anlatılan matematiksel formülleri (`pow(m, e, n)`) adım adım uygulamanızı sağlar.
+*   Ders dökümanında anlatılan matematiksel formülleri (`pow(m, e, n)`) adım adım uygulamanızı sağlar.
 *   Kendi küçük asal sayılarınızı (p, q) girerek Public ve Private anahtarların nasıl oluştuğunu görebilirsiniz.
 *   **Otomatik Asallık Kontrolü:** Girdiğiniz sayıların asal olup olmadığını kontrol eder ve hata durumunda uyarır.
 *   Sayısal mesajları şifreleyebilir, çözebilir ve dijital imza simülasyonu yapabilirsiniz.
